@@ -1,4 +1,4 @@
-"""program to illustrate honay towers our target is to move numbers from tower one to hower 2"""
+"""program to illustrate honay towers our target is to move numbers from tower_1 one to tower_3"""
 
 
 def move_from_tower(n,source,destinataion,intermediate):
